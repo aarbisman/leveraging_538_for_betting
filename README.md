@@ -14,7 +14,7 @@ To explore these questions, I plan on:
  - Looking at the expected outcomes when multiplying 538's probabilitys by Draft King's moneyline payouts
  - Looking at the short/medium/long term profits (or losses) by betting on games with positive expected outcomes
 
-Throughout this Project I:
+Throughout this Project, I:
  - Created web scrapers to pull data from 538's prediction page and Draft King's moneylines
  - Created an OLTP database to hold those data files
  - Created a data warehouse and corresponding ETL script to load all of the data into one place for analysis
